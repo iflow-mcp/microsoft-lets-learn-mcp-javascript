@@ -1,0 +1,1 @@
+{"serverConfig": "{\"mcpServers\":{\"weather\":{\"command\":\"npx\",\"args\":[\"-y\",\"@iflow-mcp/microsoft-lets-learn-mcp-javascript\",\"-y\",\"tsx\",\"main.ts\"],\"values\":{}}}}"}
